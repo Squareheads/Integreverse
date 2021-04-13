@@ -26,10 +26,13 @@ Compared to vanilla there is no silver/gold/uranium in asteroids.
 
 The planet Archipelagos was added to the solar system. Its surface is mainly covered in Water. The T2 Ore located there needs to be mined under water.
 Thrusters were modified such that Atmosphereic-, Ion- and Hydrogenthrusters will turn off once submerged.
+
 There is a new type of thrusters called "Waterthrusters" which - for the lack of a 3D model - look like Atmospheric thrusters.
 The Waterthrusters are switched off by the game if NOT submerged in water.
+
 The water mod "calculates buoyancy based on gas tanks below the water ... It behaves like you would expect a gas tank in water would and allows for submarines.
 You can make a submarine by using collectors as ballasts, they collect ice. Hydrogen gas is more buoyant the oxygen gas."
+
 Pirates - "Violets are blue, roses are red. We're coming aboard. Prepare to eat lead."
 
 ## Atmospheric physics
@@ -46,6 +49,7 @@ There are multiple other mods adding plane parts like wings wheels and so on imp
 -----
 
 All weapons are based on the WeaponCore mod which adds physics like ballisic curves, damage decrease over range, AoE for HE ammo, damage on impact, penetration before explosion, multiple ammo types for the same weapon (HE, AP, ...), guided missiles, energy weapons with increased damage vs shields but reduced damage vs matter (vice versa for kinetic weapons).
+
 There are about 30 new weapons which unlock over the various tiers.
 
 ## H2 rebalance
