@@ -31,7 +31,7 @@ The water mod "calculates buoyancy based on gas tanks below the water ... It beh
 You can make a submarine by using collectors as ballasts, they collect ice. Hydrogen gas is more buoyant the oxygen gas."
 Pirates - "Violets are blue, roses are red. We're coming aboard. Prepare to eat lead."
 
-##Atmospheric physics
+## Atmospheric physics
 
 -------------------
 Implemented by this mod.: https://steamcommunity.com/sharedfiles/filedetails/?id=571920453
@@ -39,13 +39,13 @@ Implemented by this mod.: https://steamcommunity.com/sharedfiles/filedetails/?id
 You can configure Aerodynamic Control Surfaces (wings/flaps and such) via the custom datafield of blocks. see https://steamcommunity.com/sharedfiles/filedetails/?id=800500312
 There is multiple other mods adding plane parts like wings wheels and so on implemented as well.
 
-##DAKKA
+## DAKKA
 -----
 
 All weapons are based on the WeaponCore mod which adds physics like ballisic curves, damage decrease over range, AoE for HE ammo, damage on impact, penetration before explosion, multiple ammo types for the same weapon (HE, AP, ...), guided missiles, energy weapons with increased damage vs shields but reduced damage vs matter (vice versa for kinetic weapons).
 There are about 30 new weapons which unlock over the various tiers.
 
-##H2 rebalance
+## H2 rebalance
 ------------
 
 We made Hydrogen thrusters stronger and tanks last longer and placed ionthrusters a little bit further back in the techtree compared to vanilla for a prolonged H2 vessel phase.
