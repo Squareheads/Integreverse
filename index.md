@@ -8,16 +8,17 @@ It adds new mechanics in the form of water (buoyancy) and atmosphereic friction 
 
 Progression is implemented roughly as 1 tier per planet. I.e.: on the tier 3 Planet the NPCs have tier 3 equipment, you find tier 3 ore and can use it to craft tier 3 blocks.
 The intenden Progression path is as follows.:
-- Earth: start here. Build hydro thrusters to reach earths moon.
-- Moon: youll find ore required for jumpdrives as well as gold and silver.
-- with the jumpdrive you can reach 4 planets of comparable tier (in any order you choose). After all 4 planets every block type is available. Further planets (T3 to T5 just improove performance of those blocks).
--- Mars: Platinum and a new ore required for ion thrusters
--- Alien: Uranium -> reactors
--- Europa (Mars Moon): New ore required exclusively for energy shields
--- Archipelagos (water plnaet): T2 Ore - the first tiered ore that allows to build more efficient versions of all blocks.
-- Triton: T3 Ore
-- Petram: T4 Ore
-- Titan: T5 Ore
+* Earth: start here. Build hydro thrusters to reach earths moon.
+* Moon: youll find ore required for jumpdrives as well as gold and silver.
+* with the jumpdrive you can reach 4 planets of comparable tier (in any order you choose). After all 4 planets every block type is available. Further planets (T3 to T5) just improve performance of those blocks.
+  + Mars: Platinum and a new ore required for ion thrusters
+  + Alien: Uranium -> reactors
+  + Europa (Mars Moon): New ore required exclusively for energy shields
+  + Archipelagos (water plnaet): T2 Ore - the first tiered ore that allows to build more efficient versions of all blocks.
+* Triton: T3 Ore
+* Petram: T4 Ore
+* Titan: T5 Ore
+
 Compared to vanilla there is no silver/gold/uranium in asteroids.
 
 ## Water
@@ -34,10 +35,10 @@ Pirates - "Violets are blue, roses are red. We're coming aboard. Prepare to eat 
 ## Atmospheric physics
 
 -------------------
-Implemented by this mod.: https://steamcommunity.com/sharedfiles/filedetails/?id=571920453
+Implemented by [this](https://steamcommunity.com/sharedfiles/filedetails/?id=571920453) mod. 
 "Adds drag to all ships in atmosphere. Adds deadly reentry to the game. Adds wind to the game."
-You can configure Aerodynamic Control Surfaces (wings/flaps and such) via the custom datafield of blocks. see https://steamcommunity.com/sharedfiles/filedetails/?id=800500312
-There is multiple other mods adding plane parts like wings wheels and so on implemented as well.
+You can configure Aerodynamic Control Surfaces (wings/flaps and such) via the custom datafield of blocks. see [here](https://steamcommunity.com/sharedfiles/filedetails/?id=800500312)
+There are multiple other mods adding plane parts like wings wheels and so on implemented as well.
 
 ## DAKKA
 -----
